@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi there, I’m Ekene (not a bot, I promise)
 
-<!--
-**U-Ekene/U-Ekene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Software Engineering student at the University of New Brunswick (UNB)
 
-Here are some ideas to get you started:
+🔭 Currently working on:
+- Refactoring and documenting past projects
+- Building a web-based application called **YelpCamp**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Languages: C, Java, Python, JavaScript, HTML5, CSS
+
+🛠️ Frameworks & Tools: React, Node.js, MySQL, Git, Eclipse, VS Code, Excel
+
+📫 Reach me:
+- LinkedIn: https://www.linkedin.com/in/u-ekene
+
+⚡ Fun facts:
+- I love cartoons
+- I can solve a Rubik’s Cube in under a minute
+- I love basketball
