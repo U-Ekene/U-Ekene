@@ -3,8 +3,7 @@
 🌱 Software Engineering student at the University of New Brunswick (UNB)
 
 🔭 Currently working on:
-- Refactoring and documenting past projects
-- Building a web-based application called **YelpCamp**
+- Pursuing my Software Engineering Degree at UNB
   
 🧠 Languages: C, Java, Python, JavaScript, HTML5, CSS
 
