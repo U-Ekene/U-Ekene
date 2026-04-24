@@ -4,6 +4,8 @@
 
 🔭 Currently working on:
 - Pursuing my Software Engineering Degree at UNB
+- Building a SQL analysis project on the Olist Brazilian 
+  e-commerce dataset
   
 🧠 Languages: C, Java, Python, JavaScript, HTML5, CSS
 
